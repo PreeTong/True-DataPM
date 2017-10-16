@@ -1,0 +1,23 @@
+{
+  "name": "true-datapm",
+  "version": "1.0.0",
+  "description": "True-DataPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PreeTong/True-DataPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PreeTong/True-DataPM/issues"
+  },
+  "homepage": "https://github.com/PreeTong/True-DataPM#readme",
+  "dependencies": {
+    "excel4node": "^1.2.1",
+    "mysql": "^2.15.0"
+  }
+}
